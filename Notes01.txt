@@ -1,1 +1,39 @@
-NOTES
+SECTION 1
+
+-------------- Introduction --------------
+DevOps
+	CI - Continuous Integration
+	CD - Continuous Deployment
+	IAC- Insfrastruture as Code
+
+Containers
+	Docker
+	
+Container Orchestration
+	Kubernetes
+
+IAS
+	Terraform
+	Ansible
+	
+Continuous Integration, Deployment and Delivery
+	Azure DevOps
+	Jenkins Pipelines
+	
+MultiCloud
+	AWS
+	Azure
+	Google Cloud Platform
+
+-------------- DevOps --------------
+Definition
+
+Evolution
+	Waterfall
+	
+3 Keys
+	Enhanced Communication
+	Automation
+	Quick Feedback
+
+-------------- DevOps --------------
