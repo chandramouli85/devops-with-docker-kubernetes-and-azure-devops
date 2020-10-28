@@ -1,4 +1,4 @@
-SECTION 1
+SECTION 1 DEVOPS INTRODUCTION
 
 -------------- Introduction --------------
 DevOps
@@ -25,7 +25,9 @@ MultiCloud
 	Azure
 	Google Cloud Platform
 
--------------- DevOps --------------
+------------------------------------------------------------------------------------
+3. DEVOPS AND EVOLUTION OF SOFTWARE DEVELOPMENT
+
 Definition
 
 Evolution
@@ -35,5 +37,50 @@ Evolution
 	Enhanced Communication
 	Automation
 	Quick Feedback
+	
+------------------------------------------------------------------------------------
+4. BEFORE DEVOPS - EVOLUTION TO AGILE
 
--------------- DevOps --------------
+Agile
+	User history
+	Sprints
+	
+	1.- Enhanced Comunication
+		Bussines and Development
+		Product Owner
+	2.- Automation
+		Find defects early (Functional and Technical)
+		Agile Automation (Continuous Integration - Jenkins)
+		- Code Commit
+		- Unit Tests
+		- Code Quality
+		- Package
+		- Integrations Tests
+	3.- Quick Feedback
+		Agile Retrospectives
+	
+New Challenges 
+
+	Microservices
+	
+------------------------------------------------------------------------------------
+5. DEVOPS - AN OVERVIEW
+
+Focus 1:
+	Enhanced Communication Development and Operations Team	
+Focus 2:
+	Make Deployments easier
+Focus 3:
+	Make Operations works visible
+	
+Bring Teams Together
+	Involve in Stand Ups and Retrospectives 	
+Automation
+	Continuous Deployment and IAC
+Quick Feedback
+
+
+
+Agile + DevOps 
+
+------------------------------------------------------------------------------------
