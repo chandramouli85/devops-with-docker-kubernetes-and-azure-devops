@@ -26,7 +26,7 @@ MultiCloud
 	Google Cloud Platform
 
 ------------------------------------------------------------------------------------
-3. DEVOPS AND EVOLUTION OF SOFTWARE DEVELOPMENT
+DEVOPS AND EVOLUTION OF SOFTWARE DEVELOPMENT
 
 Definition
 
@@ -39,7 +39,7 @@ Evolution
 	Quick Feedback
 	
 ------------------------------------------------------------------------------------
-4. BEFORE DEVOPS - EVOLUTION TO AGILE
+BEFORE DEVOPS - EVOLUTION TO AGILE
 
 Agile
 	User history
@@ -64,7 +64,7 @@ New Challenges
 	Microservices
 	
 ------------------------------------------------------------------------------------
-5. DEVOPS - AN OVERVIEW
+DEVOPS - AN OVERVIEW
 
 Focus 1:
 	Enhanced Communication Development and Operations Team	
@@ -78,7 +78,6 @@ Bring Teams Together
 Automation
 	Continuous Deployment and IAC
 Quick Feedback
-
 
 
 Agile + DevOps 
