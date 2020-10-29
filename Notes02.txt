@@ -1,0 +1,26 @@
+SECTION 2:Start DevOps with DOCKER
+
+------------------------------------------------------------------------------------
+DEVOPS, DOCKER AND CONTAINERIZATION
+
+Containers (Docker)
+	Project Code -- Docker Image -- Docker Repository
+
+------------------------------------------------------------------------------------
+STEP 01 - DOCKER AND DEVOPS - INSTALLATION AND INTRODUCTION
+
+Why Docker is important for DevOps
+Docker Fundamentals
+Docker Architecture
+
+Installation
+	
+
+
+------------------------------------------------------------------------------------
+
+	
+------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------
